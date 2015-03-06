@@ -5,3 +5,4 @@ If you use it, expand it, I'd like to hear from you, view your results, or you c
 ##Why?
 Tkinter Text is a fun to use widget. It is simple and yet very powerful. An experimental web browser was implemented in it. And my taste is difficult to satisfy, I guess. Other text editors just don't do it. It has to be mine.
 ##Screenshot
+<img src="https://cloud.githubusercontent.com/assets/7327694/6528170/86fff824-c420-11e4-8e8c-3ffc7e67a24d.PNG"></img>
